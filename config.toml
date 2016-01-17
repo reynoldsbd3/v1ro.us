@@ -1,0 +1,14 @@
+baseurl = "http://v1ro.us/"
+languageCode = "en-us"
+title = "v1ro.us"
+theme = "HugoMDL"
+MetaDataFormat = "yaml"
+
+[params]
+  name = "Bobby Reynolds"
+  description = "Thoughts on development, RE, and OS design and implementation"
+  # image = "img/avatar.png"
+  website = "v1ro.us"
+  email = "reynoldsbd3@hotmail.com"
+  copyrightyear = "2016"
+  frontpageposts = 6
