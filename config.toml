@@ -15,3 +15,20 @@ MetaDataFormat = "yaml"
   email = "reynoldsbd3@hotmail.com"
   copyrightyear = "2016"
   frontpageposts = 6
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Articles"
+  url = "/post/"
+  weight = -180
+[[menu.main]]
+  name = "Projects"
+  url = "/project/"
+  weight = -160
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = "-140"
