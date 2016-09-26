@@ -1,8 +1,9 @@
-baseurl = "http://v1ro.us/"
+baseurl = "https://reynoldsbd.net/"
 languageCode = "en-us"
-title = "v1ro.us"
+title = "Bobby Reynolds"
 theme = "HugoMDL"
 MetaDataFormat = "yaml"
+PygmentsCodeFences = true
 
 [params]
   name = "Bobby Reynolds"
@@ -11,7 +12,7 @@ MetaDataFormat = "yaml"
   background = "/img/background.jpg"
   # mdlPrimary = "indigo"
   # mdlAccent = "pink"
-  website = "v1ro.us"
+  website = "reynoldsbd.net"
   email = "reynoldsbd3@hotmail.com"
   copyrightyear = "2016"
   frontpageposts = 6

@@ -5,7 +5,7 @@ author:
   github: https://github.com/reynoldsbd3
   image: /img/avatar.png
   name: Bobby Reynolds
-  website: http://v1ro.us/
+  website: http://reynoldsbd.net/
 cardbackground: '#263238'
 cardheaderimage: /images/default.jpg
 cardthumbimage: /images/default-small.jpg

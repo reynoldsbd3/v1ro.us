@@ -16,7 +16,7 @@ tags:
 "author": # used to fill out the project page. Unset fields are removed from page
     name: "Bobby Reynolds"
     description: "Software Engineer"
-    website: "http://v1ro.us/"
+    website: "https://reynoldsbd.net/"
     email: "reynoldsbd3@hotmail.com"
     github: "https://github.com/reynoldsbd3"
     image: "/img/avatar.png"

@@ -18,13 +18,13 @@ title: About Me
 type: about
 ---
 
-I am a software engineering student studying at Ohio State University. I
-currently work in reverse engineering, and I also do a bit of freelance web
-development. In my free time, I like to play music with my friends and fly RC
-helicopters.
+I'm Bobby Reynolds, a software engineering student at Ohio State University. I'm currently working in the Seattle area
+as a software engineer, and I also do a little bit of freelance web development. In my free time, I like to play music
+with my friends and fly RC helicopters.
 
 #### Employment
 
 * Facilities Engineer Assistant - [Ohio State OCIO](https://ocio.osu.edu/)
 * Infrastructure Engineer Intern - [Rosetta Marketing Group](http://www.rosetta.com/)
 * Software/Reverse Engineer Intern - [Caesar Creek Software](http://www.cc-sw.com/)
+* Software Engineer Intern - [Microsoft Corporation](http://microsoft.com/)
