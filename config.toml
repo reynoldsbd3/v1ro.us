@@ -1,9 +1,10 @@
-baseurl = "https://reynoldsbd.net/"
+baseurl = "https://www.reynoldsbd.net/"
 languageCode = "en-us"
 title = "Bobby Reynolds"
 theme = "HugoMDL"
 MetaDataFormat = "yaml"
 PygmentsCodeFences = true
+canonifyUrls = true
 
 [params]
   name = "Bobby Reynolds"

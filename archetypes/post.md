@@ -14,9 +14,8 @@ cardbackground: "#263238" #optional: card background color; only shows when no i
 "author":
     name: "Bobby Reynolds"
     description: "Software Engineer"
-    website: "https://reynoldsbd.net/"
+    website: "https://www.reynoldsbd.net/"
     email: "reynoldsbd3@hotmail.com"
-    twitter: "https://twitter.com/"
     github: "https://github.com/reynoldsbd3"
     image: "/img/avatar.png"
 ---
