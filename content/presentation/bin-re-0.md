@@ -1,18 +1,16 @@
 ---
 author:
-  description: Writer of stuff
-  email: firstname@example.com
-  github: https://github.com/
+  description: Software Engineer
+  email: reynoldsbd3@hotmail.com
+  github: https://github.com/reynoldsbd3
   image: /images/avatar-64x64.png
-  name: Firstname Lastname
-  twitter: https://twitter.com/
-  website: http://example.com/
+  name: Bobby Reynolds
 cardbackground: '#263238'
 cardheaderimage: /images/default.jpg
 cardthumbimage: /images/default.jpg
 categories:
 - presentation
-date: 2015-08-18T00:00:00Z
+date: 2017-01-31T19:00:00Z
 description: First steps in understanding concepts and abstractions used in binary-compiled software.
 tags:
 - meta
