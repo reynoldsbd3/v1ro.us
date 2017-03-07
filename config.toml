@@ -4,6 +4,7 @@ title = "Bobby Reynolds"
 theme = "HugoMDL"
 MetaDataFormat = "yaml"
 PygmentsCodeFences = true
+PygmentsStyle = "solarizedlight"
 canonifyUrls = true
 
 [params]
